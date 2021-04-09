@@ -1,4 +1,6 @@
 [
-	{"title":"Test Title","text":"Test text"},
-	{"title":"Fix the server","text":"The server is broken, you should fix it"}
+  {
+    "title": "New Note",
+    "text": "Hello world!"
+  }
 ]
