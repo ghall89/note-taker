@@ -1,14 +1,17 @@
 [
   {
-    "title": "New Note",
-    "text": "Hello world!"
+    "title": "How to make the best coffee",
+    "text": "It's a secret to everyone!",
+    "id": 1
   },
   {
-    "title": "Another test note",
-    "text": "Lorem ipsum, yadda yadda"
+    "title": "My favorite website",
+    "text": "http://ghall.dev",
+    "id": 2
   },
   {
-    "title": "Testing the front end",
-    "text": "This is to test the front end and make sure it works."
+    "title": "Random Thoughts",
+    "text": "Blah blah blah",
+    "id": 3
   }
 ]
