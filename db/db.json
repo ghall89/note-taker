@@ -2,5 +2,13 @@
   {
     "title": "New Note",
     "text": "Hello world!"
+  },
+  {
+    "title": "Another test note",
+    "text": "Lorem ipsum, yadda yadda"
+  },
+  {
+    "title": "Testing the front end",
+    "text": "This is to test the front end and make sure it works."
   }
 ]
