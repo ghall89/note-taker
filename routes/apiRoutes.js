@@ -1,5 +1,7 @@
 const path = require('path');
 const router = require('express').Router();
+const fs = require('fs');
+
 
 const notes = require('../db/db.json');
 
@@ -45,6 +47,9 @@ router.delete('/notes/:id', (req, res) => {
 	}
 	
 	writeToDB()
+	
+	res.json(req.body);
+
 });
 
 module.exports = router;
