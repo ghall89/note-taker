@@ -1,4 +1,5 @@
 # note-taker
+![](https://img.shields.io/github/license/ghall89/note-taker?style=for-the-badge)
 
 ## Description
 
@@ -23,7 +24,7 @@ We all need to jot down notes once in a while, for work, school, or just in our 
 
 ## Usage
 
-[🔗 Deployed Link]()
+[🔗 Deployed Link](https://safe-springs-88279.herokuapp.com)
 
 - Click "Get Started" to go to the notes page
 - Click the pencil ✏️ icon to start a new note
